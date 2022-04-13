@@ -13,5 +13,5 @@ setup(
     install_requires=['uvicorn==0.11.8'],
 
     packages=find_packages(),
-    package_dir={'logging': 'logging'}
+    package_dir={'data-logger-library': 'data-logger-library'}
 )
